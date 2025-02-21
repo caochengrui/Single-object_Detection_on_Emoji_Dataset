@@ -7,6 +7,9 @@ Original link: https://github.com/hfg-gmuend/openmoji/releases/latest/download/o
 The emoji image is 72 * 72 pixels with 10 pixels of meaningless margin on both sides of rows and columns.  
 The images of the emojis after cropped are 52 * 52 pixels.  
 
+## Experiment
+The experiment results in the report were uploaded to the experiment folder. The experiment used code based on PyTorch. 
+
 ## Run-time Environment
 All the code is in form of **Jupyter Notebook** and it was programmed in the **Google Colab**. The file `requirements.txt` contains the specific version of each Python library used.  
 
